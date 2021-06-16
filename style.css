@@ -1,0 +1,89 @@
+.hero-section-left>p{
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.hero-section-left>p>span{
+    color: rgba(101, 182, 80, 1);
+}
+
+.hero-section-left>h3{
+    font-size: 40px;
+    
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+
+.hero-section-left>h6{
+    color: rgba(0, 0, 0, 0.67);
+    padding-top: 10px;
+    font-size: 13px;
+}
+
+
+.hero-section-left>button{
+    background-color:rgba(36, 42, 38, 1);
+    
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 120px;
+    height: 46px;
+    font-size: 15px;
+    color: white;
+    font-weight: bolder;
+}
+
+
+.hero-section-right>img{
+    height: 582px;
+    width: 740px;
+}
+
+.main-section-text>h3{
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.main-section-text>h6{
+    text-align: center;
+    font-size: 24px;
+    font-weight: normal;
+    color: rgba(135, 209, 24, 1);
+}
+
+.join{
+    width: 93px;
+    height: 36px;
+    background-color: rgba(135, 209, 24, 1);
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.banner-text>input{
+    padding-left: 10px;
+    margin-top: 20px;
+    width:333px ;
+    height: 36px;
+}
+
+.foot-2>h4{
+    padding-left: 30px;
+    color: tomato;
+}
+
+
+.foot-1>h4{
+    padding-left: 30px;
+    color: tomato;
+}
+
+
+.foot-3>h4{
+    padding-left: 30px;
+    color: tomato;
+}
