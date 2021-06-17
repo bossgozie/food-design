@@ -376,4 +376,10 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.position-5>p{
+    color: white;
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
        }
